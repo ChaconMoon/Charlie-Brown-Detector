@@ -10,7 +10,6 @@ wheels/
 .venv
 
 # YOLO training outputs
-runs/
 *.onnx
 *.engine
 *.pb
