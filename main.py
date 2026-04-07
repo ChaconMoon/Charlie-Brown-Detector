@@ -5,7 +5,7 @@ from ultralytics import YOLO
 model = YOLO(model="./best_model/charlie-brown-detector.pt")
 
 result = model.predict(
-    source="19501230.webp",
+    source="aef6aa5f5375a034a6dbfa1e11b54bac51536530f50c8b6f3bb4cc0cd33fd60d._BR-6_AC_SX720_FMjpg_.jpg",
     show=True,
     stream=True,
 )
