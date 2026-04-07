@@ -192,7 +192,7 @@ uv run --python 3.13 python main.py
 
 ## License
 
-[Add your license here]
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
