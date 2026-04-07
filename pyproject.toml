@@ -1,7 +1,7 @@
 [project]
-name = "peanutsdetector"
+name = "Charlie-Brown-Detector"
 version = "0.1.0"
-description = "Add your description here"
+description = "A YOLO trainer model that can detect Charlie Brown in different media."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
