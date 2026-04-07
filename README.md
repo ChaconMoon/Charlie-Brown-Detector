@@ -172,24 +172,6 @@ The model can also detect Charlie Brown plushes and figurines.
 
 <img src="./model_results/result-11.jpg" width=400px/>
 
-## Additional Commands
-
-### Update Dependencies
-
-If `pyproject.toml` has been modified, update your environment:
-
-```bash
-uv sync
-```
-
-### Run with a Specific Python Version
-
-UV will automatically use the correct Python version specified in `.python-version`. To override:
-
-```bash
-uv run --python 3.13 python main.py
-```
-
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
